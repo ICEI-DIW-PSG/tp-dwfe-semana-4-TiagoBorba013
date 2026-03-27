@@ -13,7 +13,7 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 - Matricula:910976
 - Proposta de projeto escolhida: Notícias/futebol
 - Breve descrição sobre seu projeto: Esse site tem a proposta de informar os interessandos por futebol nacional e intercional com notícias sempre novas e confiáveis e de forma clara, objetiva e descontraida.
-FOOTBALL NEWS
+
 
 
 ## Print do(s) wireframe(s) criado
